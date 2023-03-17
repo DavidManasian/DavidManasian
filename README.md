@@ -8,7 +8,7 @@
 	</a>
 </div>
 
-###About me
+## About me
 
 - :mag: Manual Tester
 - :books: I’m currently learning **automation**
@@ -16,7 +16,7 @@
 - :writing_hand: Reach me by [Telegram](https://t.me/thedavidich), [email](mailto:manasyandavid190@mail.ru)
 - :volleyball: I love volleyball and :metal: metal
 
-###Languages and tools
+## Languages and tools
 
 <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" title="sql" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/sevenler/software/96c3079f551536d72bacb190a86b28f6f5e0c47e/charles/icon/charles_icon.svg" title="js" width="40" height="40"/>&nbsp;
