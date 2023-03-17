@@ -9,9 +9,11 @@
 </div>
 
 ###About me
-- 🌱 I’m currently learning **automation**
+
+- :mag: Manual Tester
+- :books: I’m currently learning **automation**
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1EKkDN0SOdjrmhUo6esCymxwsKFd2ZrXE/view?usp=sharing)
-- 📫 Reach me by [Telegram](https://t.me/davidich), [email](mailto:manasyandavid190@mail.ru)
+- :writing_hand: Reach me by [Telegram](https://t.me/thedavidich), [email](mailto:manasyandavid190@mail.ru)
 - :volleyball: I love volleyball and :metal: metal
 
 ###Languages and tools
